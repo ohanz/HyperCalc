@@ -1,6 +1,6 @@
 # hypercalc_x
 
-A Hyper Calculator Project for the everyday hyper with Inbuit Smart Prompts
+A Hyper Calculator Project for the everyday hyper with Inbuilt Smart Prompts
 
 ## Getting Started
 
